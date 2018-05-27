@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "fun_bubble_@2x-1.PNG"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "fun_bubble_@2x.PNG"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "filename" : "fun_bubble_@3x.PNG"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
